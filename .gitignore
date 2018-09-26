@@ -1,0 +1,5 @@
+
+*.xml
+*.iml
+.stack-work/install/x86_64-linux-tinfo6/lts-12.10/8.4.3/pkgdb/package.cache
+.stack-work/install/x86_64-linux-tinfo6/lts-12.10/8.4.3/pkgdb/package.cache.lock
